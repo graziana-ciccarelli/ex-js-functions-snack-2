@@ -7,4 +7,4 @@ function eseguiEferma(messaggio, tempoAvvio, tempoStop) {
         clearInterval(interval);
     }, tempoStop);
 }
-eseguiEferma("Ciao, questo è un messaggio.", 1000, 5000); 
+eseguiEferma("Sto eseguendo : Hello world.", 1000, 5000); 
